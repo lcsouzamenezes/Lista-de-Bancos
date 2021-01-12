@@ -84,6 +84,8 @@ form of choices.
 Chamada [GET] Lista todos dos 755 Bancos no brasil.       
             
 ### Listas dos bancos [GET]
+#### host: https://private-22abbd-lcsouzamenezes.apiary-mock.com/listabancos
+##### Content-Type:application/json
 
 + Response 200 (application/json)
 
